@@ -1,5 +1,3 @@
-# Academic Wesbite for Jack O'Brien
+# Repositories and websites
 
-There isn't really a non-academic website for Jack O'Brien so that makes this the reaad-me for Jack O'Brien's github.
-
-Find out more: [cascobayesian.gith.com](cascobayesian.gith.com)
+Check out [cascobayesian.gith.com](cascobayesian.gith.com) for my academic main page.
