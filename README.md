@@ -1,3 +1,3 @@
 # Repositories and websites
 
-Check out [cascobayesian.github.com](https://cascobayesian.github.com) for my academic main page.
+Check out [cascobayesian.github.com](https://cascobayesian.github.io/) for my academic main page.
